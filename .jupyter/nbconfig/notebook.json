@@ -1,0 +1,12 @@
+{
+  "load_extensions": {
+    "vim_binding/vim_binding": true
+  },
+  "keys": {
+    "command": {
+      "bind": {
+        "cmdtrl-shift-r": "jupyter-notebook:restart-kernel-and-run-all-cells"
+      }
+    }
+  }
+}

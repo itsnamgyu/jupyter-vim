@@ -3,6 +3,11 @@ Personal Jupyter vim plugin setup script based on https://github.com/lambdalisue
 
 ### Usage
 
+```sh
+source install.sh
+source clean.sh  # clean up current folder
+```
+
 ### Details
 
 #### Install vim-binding
