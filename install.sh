@@ -1,5 +1,5 @@
 # Install jupyter
-pip3 install jupyter
+pip3 install notebook~=6.0
 
 DIR=$(pwd)
 
